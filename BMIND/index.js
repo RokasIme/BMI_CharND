@@ -15,7 +15,7 @@ btnDOM.addEventListener("click", () => {
   resultDOM.value = BMI;
 
   if (BMI >= 30) {
-    conditionDOM.innerText = "Stora bačka, neapsisuka";
+    conditionDOM.innerText = "obesity";
   }
   if (BMI < 29.9) {
     conditionDOM.innerText = "overweight";
