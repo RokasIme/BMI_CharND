@@ -8,7 +8,7 @@ _functional website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://rokasime.github.io/
+Site published at: https://rokasime.github.io/BMI_CharND/
 
 Design: !by mentorė Gabija
 
@@ -40,7 +40,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/RokasIme/
+   git clone https://rokasime.github.io/BMI_CharND/
    ```
 2. Install NPM packages
    ```sh
